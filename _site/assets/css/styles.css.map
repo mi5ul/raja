@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\"\n",
+		"html, body {\n  margin: 0;\n  height: 100%;\n}\n\n.wrapper {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 100%;\n  background-color: #ff9933;\n}\n\n.logo {\n  color: purple;\n  font-size: 100px;\n}\n"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,IAAI,EAAE,IAAI,CAAC,EACT,MAAM,EAAE,CAAC,EACT,MAAM,EAAE,IAAI,GACb;;AAED,AAAA,QAAQ,CAAC,EACP,OAAO,EAAE,IAAI,EACb,eAAe,EAAE,MAAM,EACvB,WAAW,EAAE,MAAM,EACnB,MAAM,EAAE,IAAI,EACZ,gBAAgB,EAAE,OAAO,GAC1B;;AAED,AAAA,KAAK,CAAC,EACJ,KAAK,EAAE,MAAM,EACb,SAAS,EAAE,KAAK,GACjB"
+}

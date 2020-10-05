@@ -1,0 +1,7 @@
+html, body { margin: 0; height: 100%; }
+
+.wrapper { display: flex; justify-content: center; align-items: center; height: 100%; background-color: #ff9933; }
+
+.logo { color: purple; font-size: 100px; }
+
+/*# sourceMappingURL=styles.css.map */
